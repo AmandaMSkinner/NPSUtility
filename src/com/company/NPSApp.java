@@ -1,6 +1,5 @@
 package com.company;
 
-import com.company.model.Park;
 import com.company.services.ParkService;
 
 import java.util.Scanner;
